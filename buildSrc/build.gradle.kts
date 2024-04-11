@@ -15,7 +15,7 @@
 plugins {
     id("com.ncorti.ktfmt.gradle") version "0.11.0"
     id("com.github.sherter.google-java-format") version "0.9"
-    kotlin("plugin.serialization") version "1.7.10"
+    kotlin("plugin.serialization") version "1.9.23"
     `kotlin-dsl`
 }
 
